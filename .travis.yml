@@ -3,7 +3,7 @@ python:
   - "3.8"
 
 services:
-  -docker
+  - docker
 
 before_script: pip3 install docker-compose
 
